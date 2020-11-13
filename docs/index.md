@@ -34,8 +34,7 @@ All of these species are considered sensitive and have lost a lot of habitat to 
 
 The map below displays the various ways land is used in the Osa Peninsula. Overlaid on top of the land use categories is presence data for the bird species of conservation concern for the area. The presence data is derived from on-the-ground observaions of individuals from each species. It can be extremely difficult to know where different species live so crowd-sourced presence data from sources like e-bird can help conservationists identify areas that make particulary important habitat for sensitive species. This is helpful because knowing where the most important areas are mean that on-the-ground conservationists, such as those at Osa Conservation, know where to prioritize their resources.
 
-
-<iframe src="mgb_hw2_map"></iframe>
+<iframe src="mgb_hw2_map/index.html" width=1024 height=768></iframe>
 
 ### Aknowlegements
 Thanks to the AmistOsa Ag Bren Group Project Team and Osa Conservation for the information and data used to create this map.
